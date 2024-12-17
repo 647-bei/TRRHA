@@ -7,7 +7,7 @@ Ziyi Cao<sup>1</sup>, Tiansong Li<sup>1</sup>, Guofen Wang<sup>1</sup>, Haibing 
 <sup>3</sup>Electronic Information and Communications, Huazhong University of Science and Technology.
 
 ## 🔎 Framework
-![TRRHA框图 (1)](https://ibb.co/vcJQ7vm)
+![TRRHA框图 (1)]([https://ibb.co/vcJQ7vm](https://github.com/647-bei/TRRHA/blob/main/TRRHA.png))
 
 
 
