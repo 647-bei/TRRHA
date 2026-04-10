@@ -11,7 +11,7 @@ Ziyi Cao<sup>1</sup>, Tiansong Li<sup>1</sup>, Guofen Wang<sup>1</sup>, Haibing 
 
 ## 📊 Quantitative Evaluation
 ![Quantitative Evaluation](Quantitative_evaluation.png)
-*Note: We respectfully clarify that the metric labeled as "SSIM" in the evaluation table refers to IW-SSIM. The reported numerical values are entirely correct.*
+*Erratum: We respectfully clarify that the metric referred to as "SSIM" in both the evaluation tables and the main text comparisons actually denotes IW-SSIM. The reported numerical values and comparative conclusions remain entirely correct.*
 
 ## 🎓 Citation
 If you find this work useful for your research, please consider citing:
